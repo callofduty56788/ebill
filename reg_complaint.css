@@ -1,0 +1,10 @@
+.nav-items{
+    align-items: center;
+    display: flex;
+    padding: 0.25cm;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+body{
+    margin: auto;
+}
